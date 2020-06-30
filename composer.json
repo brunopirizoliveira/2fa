@@ -1,0 +1,12 @@
+{
+    "name": "bruno/2fa",
+    "authors": [
+        {
+            "name": "Bruno Pires",
+            "email": "brunopirizoliveira@gmail.com"
+        }
+    ],
+    "require": {
+        "sonata-project/google-authenticator": "^2.2"
+    }
+}
